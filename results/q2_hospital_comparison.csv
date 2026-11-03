@@ -1,0 +1,7 @@
+measure,canberra_hospital,north_canberra_hospital,difference
+median_wait_min,30.0,23.0,7.0
+pct_4hr,56.0,60.3,-4.3
+pct_4hr_admitted,42.6,51.1,-8.5
+pct_4hr_not_admitted,66.7,65.5,1.2
+pct_did_not_wait,2.8,4.0,-1.2
+pct_on_time,55.0,64.4,-9.4

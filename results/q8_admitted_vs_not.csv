@@ -1,0 +1,10 @@
+hospital_name,financial_year,admitted_pct_4hr,not_admitted_pct_4hr
+ACT,2023-24,43.3,65.2
+ACT,2024-25,48.5,69.6
+ACT,2025-26,45.4,66.2
+Canberra Hospital,2023-24,42.9,69.4
+Canberra Hospital,2024-25,47.3,71.8
+Canberra Hospital,2025-26,42.6,66.7
+North Canberra Hospital,2023-24,44.2,59.7
+North Canberra Hospital,2024-25,50.9,66.6
+North Canberra Hospital,2025-26,51.1,65.5

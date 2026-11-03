@@ -1,0 +1,6 @@
+triage_id,triage_name,benchmark_pct,actual_pct,gap_pct_points,result
+1,Resuscitation,100.0,99.5,-0.5,Missed
+2,Emergency,80.0,61.9,-18.1,Missed
+3,Urgent,75.0,47.6,-27.4,Missed
+4,Semi-urgent,70.0,64.7,-5.3,Missed
+5,Non-urgent,70.0,85.8,15.8,Met

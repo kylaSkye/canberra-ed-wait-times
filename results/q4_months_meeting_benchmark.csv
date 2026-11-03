@@ -1,0 +1,11 @@
+hospital_name,triage_name,benchmark_pct,months_reported,months_met,pct_months_met
+Canberra Hospital,Resuscitation,100.0,36,20,56.0
+Canberra Hospital,Emergency,80.0,36,4,11.0
+Canberra Hospital,Urgent,75.0,36,0,0.0
+Canberra Hospital,Semi-urgent,70.0,36,3,8.0
+Canberra Hospital,Non-urgent,70.0,36,36,100.0
+North Canberra Hospital,Resuscitation,100.0,36,27,75.0
+North Canberra Hospital,Emergency,80.0,36,0,0.0
+North Canberra Hospital,Urgent,75.0,36,0,0.0
+North Canberra Hospital,Semi-urgent,70.0,36,21,58.0
+North Canberra Hospital,Non-urgent,70.0,36,36,100.0
