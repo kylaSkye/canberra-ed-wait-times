@@ -8,6 +8,8 @@ departments, where is the system falling short, and is it getting better?
 ACT Government Open Data Portal. 3,347 monthly records, July 2023 – June 2026,
 covering Canberra Hospital, North Canberra Hospital and the ACT as a whole.
 
+📄 **[Read the 4-page report (PDF)](report/Canberra_ED_Wait_Times_Report.pdf)**
+
 ---
 
 ## Key findings
@@ -121,4 +123,5 @@ sql/03_analysis.sql               the 9 analysis queries
 sql/04_practice.sql               extra questions to try yourself
 build_database.py                 loads the CSV and runs 01 + 02
 run_analysis.py                   runs 03, saves results and charts
+report/                           4-page summary report (PDF)
 ```
